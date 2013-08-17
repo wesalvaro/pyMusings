@@ -1,2 +1,1 @@
-## Exclusive function arguments
-### how do they work?
+## Exclusive function arguments. How do they work?
